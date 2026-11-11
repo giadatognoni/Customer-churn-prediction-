@@ -118,5 +118,5 @@ The project represents a practical application of Python, data analysis and Mach
 
 ---
 
-**Author:** Data Analysis Portfolio Project
-:::
+**Author:** Data Analysis Portfolio Project Tognoni Giada
+
